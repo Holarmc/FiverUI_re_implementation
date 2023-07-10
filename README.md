@@ -1,1 +1,1 @@
-Lama Dev Season 3
+Coding from the ground up the fiver UI, using Vite, react, sass and hooks.
